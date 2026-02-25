@@ -28,7 +28,7 @@ A simple RESTful API built using Flask that supports CRUD operations for managin
 5. Run server:
    python3 app.py
 6. Open:
-   http://127.0.0.1:5000/
+   (http://127.0.0.1:5055/)
 
 ## 📖 API Endpoints
 
